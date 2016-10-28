@@ -39,7 +39,7 @@ Run from Visual Studio Code by executing command (with <kbd>f1</kbd> to open com
 
 **Database**
 
-No configuration should be necessary necessary. Data backend is simply a json file called `todos.json` in `data/`.
+No configuration should be necessary. Data backend is simply a json file called `todos.json` in `data/`.
 If you run into any issues make sure `todos.json` has the following inside before starting the 
 server. This will become more robust overtime.
 
